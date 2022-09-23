@@ -17,7 +17,7 @@ interface GroceryDao {
     @Delete
     suspend fun delete(item: GroceryItems)
 
-    @Query("SELECT * FROM grocery_items")
+    @Query("SELECT * FROM groceryitems")
     fun getAllGroceryItems() : LiveData<List<GroceryItems>>
 
 }
