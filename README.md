@@ -15,6 +15,10 @@ Grocery Application Using Kotlin
 
 ![Screenshot_2022-09-24-22-48-21-01_92b64b2a7aa6eb3771ed6e18d0029815](https://user-images.githubusercontent.com/86054514/192600450-ecfd30e4-4b9f-4a1c-83c0-537e12aa6aed.jpg)
 
+#Project Demo Full Video Link
+* https://youtu.be/sSu-5E4gu2s
+#Peoject Demo Short Video Link
+* https://youtube.com/shorts/q-JK1Yeje8s?feature=share
 # Downloads 
 * Grocery Apk 
 * Project Zip 
